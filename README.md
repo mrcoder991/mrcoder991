@@ -24,7 +24,7 @@ Skills: REACT / JS / HTML / CSS / Python
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MrCoder991&theme=onedark)  
 
-![GitHub metrics](https://metrics.lecoq.io/MrCoder991&theme=onedark)  
+![GitHub metrics](https://metrics.lecoq.io/MrCoder991)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MrCoder991&theme=onedark)  
 
