@@ -1,5 +1,6 @@
 ### Hi there 👋, I'am Uday Girhepunje
 #### A passionate front-end developer from India
+![Profile views](https://gpvc.arturio.dev/MrCoder991)  
 ![A passionate front-end developer from India](https://github.com/mrcoder991/mrcoder991/blob/main/Profile-Banner.png?raw=true)
 
 I am a computer engineering student at SPPU Pune. I am passionate about frontend developement but sometimes I had to make hands dirty in backend too. 🥱 
