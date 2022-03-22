@@ -1,4 +1,4 @@
-### Hi there 👋, I'am Uday Girhepunje
+### Hi there 👋, I'm Uday Girhepunje
 #### A passionate front-end developer from India
 [![Twitter Follow](https://img.shields.io/twitter/follow/UdayGirhepunje?label=Follow)](https://twitter.com/intent/follow?screen_name=UdayGirhepunje)
 [![Linkedin: Uday](https://img.shields.io/badge/-Uday-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uday-girhepunje-6958a21b8/)](https://www.linkedin.com/in/uday-girhepunje-6958a21b8/)
