@@ -3,7 +3,17 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/UdayGirhepunje?label=Follow)](https://twitter.com/intent/follow?screen_name=UdayGirhepunje)
 [![Linkedin: Uday](https://img.shields.io/badge/-Uday-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uday-girhepunje-6958a21b8/)](https://www.linkedin.com/in/uday-girhepunje-6958a21b8/)
 ![Profile views](https://gpvc.arturio.dev/MrCoder991)  
-![A passionate front-end developer from India](https://github.com/mrcoder991/mrcoder991/blob/main/Profile-Banner.png?raw=true)
+
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrcoder991/mrcoder991/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrcoder991/mrcoder991/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mrcoder991/mrcoder991/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 I am a computer engineering student at SPPU Pune. I am passionate about frontend developement but sometimes I had to make hands dirty in backend too. 🥱 
 
